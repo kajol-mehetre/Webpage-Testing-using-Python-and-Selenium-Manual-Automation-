@@ -16,8 +16,6 @@ Manual test cases are documented in:
 - manual-test-cases.md
 
 Total Test Cases: 5  
-- 3 Simple  
-- 2 Mid-level  
 
 ## Automation Testing
 Automation scripts are written using:
